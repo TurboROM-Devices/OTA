@@ -158,7 +158,7 @@
             <RomUrl
                 id="rom"
                 title="ROM"
-                description="Download Turbo ROM builds">https://www.androidfilehost.com/?w=files&flid=53035</RomUrl>
+                description="Download Turbo ROM builds">https://www.androidfilehost.com/?w=files&amp;flid=53035</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
