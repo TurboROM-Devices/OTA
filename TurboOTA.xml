@@ -134,5 +134,24 @@
                 title="XDA"
                 description="Visit the Turbo ROM OnePlus One thread">http://forum.xda-developers.com/oneplus-one/development/rom-turborom-mm-t3345306/</XDAUrl>
 	</bacon>
+	<flo>
+            <Filename>Turbo-bacon-3.3-OFFICIAL-04-10-2016</Filename>
+            <RomUrl
+                id="rom"
+                title="ROM"
+                description="Download Turbo ROM builds">https://www.androidfilehost.com/?w=files&amp;flid=52971</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View changelog">https://github.com/TurboROM/Documentation/blob/master/CHANGELOG.mkdn</ChangelogUrl>
+            <GappsUrl
+                id="gapps"
+                title="GApps"
+                description="Download the latest BaNkS GApps">http://download.dirtyunicorns.com/files/gapps/banks_gapps</GappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit the Turbo ROM Nexus 7 2013 thread">http://forum.xda-developers.com/nexus-7-2013/development/rom-turbo-rom-t3345672</XDAUrl>
+	</flo>
     </Stable>
 </TurboOTA>
