@@ -115,5 +115,24 @@
                 title="XDA"
                 description="Visit the Turbo ROM d850 thread">http://forum.xda-developers.com/verizon-lg-g3/development/rom-turbo-rom-layers-t3346462</XDAUrl>
 	</vs985>
+	<bacon>
+            <Filename>Turbo-bacon-3.3-OFFICIAL-04-10-2016</Filename>
+            <RomUrl
+                id="rom"
+                title="ROM"
+                description="Download Turbo ROM builds">http://blazingphoenix.in/builds/Turbo/bacon/</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View changelog">https://github.com/TurboROM/Documentation/blob/master/CHANGELOG.mkdn</ChangelogUrl>
+            <GappsUrl
+                id="gapps"
+                title="GApps"
+                description="Download the latest BaNkS GApps">http://download.dirtyunicorns.com/files/gapps/banks_gapps</GappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit the Turbo ROM OnePlus One thread">http://forum.xda-developers.com/oneplus-one/development/rom-turborom-mm-t3345306/</XDAUrl>
+	</bacon>
     </Stable>
 </TurboOTA>
