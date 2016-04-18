@@ -2,7 +2,7 @@
 <TurboOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <d850>
-            <Filename>Turbo-d850-3.4-OFFICIAL-20160417.zip</Filename>
+            <Filename>Turbo-d850-3.4-OFFICIAL-20160417</Filename>
             <RomUrl
                 id="rom"
                 title="ROM"
