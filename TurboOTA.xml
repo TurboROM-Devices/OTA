@@ -2,7 +2,7 @@
 <TurboOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <d850>
-            <Filename>Turbo-d850-3.4-OFFICIAL-20160417</Filename>
+            <Filename>Turbo-d850-3.4-OFFICIAL-20160417.zip</Filename>
             <RomUrl
                 id="rom"
                 title="ROM"
@@ -21,7 +21,7 @@
                 description="Visit the Turbo ROM d850 thread">http://forum.xda-developers.com/att-lg-g3/development/rom-turbo-rom-layers-t3346467</XDAUrl>
 	</d850>
         <d851>
-            <Filename>Turbo-d851-3.3-OFFICIAL-04-07-2016</Filename>
+            <Filename>Turbo-d851-3.4-OFFICIAL-20160417.zip</Filename>
             <RomUrl
                 id="rom"
                 title="ROM"
@@ -40,7 +40,7 @@
                 description="Visit the Turbo ROM d851 thread">http://forum.xda-developers.com/tmobile-lg-g3/development/rom-turbo-rom-layers-t3346470</XDAUrl>
         </d851>
         <d852>
-            <Filename>Turbo-d852-3.3-OFFICIAL-04-07-2016</Filename>
+            <Filename>Turbo-d852-3.4-OFFICIAL-20160417.zip</Filename>
             <RomUrl
                 id="rom"
                 title="ROM"
@@ -59,7 +59,7 @@
                 description="Visit the Turbo ROM d852/d855 thread">http://forum.xda-developers.com/lg-g3/development/rom-turbo-rom-layers-t3346477﻿</XDAUrl>
         </d852>
         <d855>
-            <Filename>Turbo-d855-3.3-OFFICIAL-04-07-2016</Filename>
+            <Filename>Turbo-d855-3.4-OFFICIAL-20160417.zip</Filename>
             <RomUrl
                 id="rom"
                 title="ROM"
@@ -78,7 +78,7 @@
                 description="Visit the Turbo ROM d852/d855 thread">http://forum.xda-developers.com/lg-g3/development/rom-turbo-rom-layers-t3346477</XDAUrl>
 	</d855>
         <ls990>
-            <Filename>Turbo-ls990-3.3-OFFICIAL-04-07-2016</Filename>
+            <Filename>Turbo-ls990-3.4-OFFICIAL-20160417.zip</Filename>
             <RomUrl
                 id="rom"
                 title="ROM"
@@ -97,7 +97,7 @@
                 description="Visit the Turbo ROM ls990 thread">http://forum.xda-developers.com/sprint-lg-g3/development/rom-turbo-rom-layers-t3346465</XDAUrl>
 	</ls990>
         <vs985>
-            <Filename>Turbo-vs985-3.3-OFFICIAL-04-07-2016</Filename>
+            <Filename>Turbo-vs985-3.4-OFFICIAL-20160417.zip</Filename>
             <RomUrl
                 id="rom"
                 title="ROM"
