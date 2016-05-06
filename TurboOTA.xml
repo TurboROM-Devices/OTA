@@ -248,5 +248,24 @@
                 title="XDA"
                 description="Visit the Turbo ROM Moto G (3rd Gen.) thread">http://forum.xda-developers.com/2015-moto-g/development/rom-turbo-rom-layers-t3363347</XDAUrl>
 	</osprey>
+	<onyx>
+            <Filename>Turbo-onyx-3.9-OFFICIAL-20160505.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="ROM"
+                description="Download Turbo ROM builds">https://www.androidfilehost.com/?w=files&flid=55832</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View changelog">https://github.com/TurboROM/Documentation/blob/mm/CHANGELOG.mkdn</ChangelogUrl>
+            <GappsUrl
+                id="gapps"
+                title="GApps"
+                description="Download the latest BaNkS GApps">http://download.dirtyunicorns.com/files/gapps/banks_gapps</GappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit the Turbo ROM OnePlus X thread">http://forum.xda-developers.com/oneplus-x/development/rom-dui-turbo-rom-t3372246</XDAUrl>
+	</onyx>
     </Stable>
 </TurboOTA>
