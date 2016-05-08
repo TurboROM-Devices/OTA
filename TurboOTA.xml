@@ -268,7 +268,7 @@
                 description="Visit the Turbo ROM OnePlus X thread">http://forum.xda-developers.com/oneplus-x/development/rom-dui-turbo-rom-t3372246</XDAUrl>
 	</onyx>
 	<cancro>
-            <Filename>Turbo-cancro-4.0-OFFICIAL-20160507.zip</Filename>
+            <Filename>Turbo-cancro-4.0-OFFICIAL-20160508.zip</Filename>
             <RomUrl
                 id="rom"
                 title="ROM"
@@ -284,7 +284,7 @@
             <XDAUrl
                 id="xda"
                 title="XDA"
-                description="Visit the Turbo ROM OnePlus X thread">http://forum.xda-developers.com/xiaomi-mi-3/development/rom-turbo-rom-layers-t3374355</XDAUrl>
-	</onyx>
+                description="Visit the Turbo ROM Xiaomi Mi3 thread">http://forum.xda-developers.com/xiaomi-mi-3/development/rom-turbo-rom-layers-t3374355</XDAUrl>
+	</cancro>
     </Stable>
 </TurboOTA>
