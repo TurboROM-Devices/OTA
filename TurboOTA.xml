@@ -286,5 +286,24 @@
                 title="XDA"
                 description="Visit the Turbo ROM Xiaomi Mi3 thread">http://forum.xda-developers.com/xiaomi-mi-3/development/rom-turbo-rom-layers-t3374355</XDAUrl>
 	</cancro>
+	<lux>
+            <Filename>Turbo-lux-4.0-OFFICIAL-20160508.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="ROM"
+                description="Download Turbo ROM builds">hhttps://www.androidfilehost.com/?fid=24533103863138018</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View changelog">https://github.com/TurboROM/Documentation/blob/mm/CHANGELOG.mkdn</ChangelogUrl>
+            <GappsUrl
+                id="gapps"
+                title="GApps"
+                description="Download the latest BaNkS GApps">http://download.dirtyunicorns.com/files/gapps/banks_gapps</GappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit the Turbo ROM Moto X Play thread">http://forum.xda-developers.com/moto-x-play/development/rom-turbo-rom-layers-t3368419</XDAUrl>
+	</lux>
     </Stable>
 </TurboOTA>
