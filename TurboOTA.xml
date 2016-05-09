@@ -2,7 +2,7 @@
 <TurboOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <d850>
-            <Filename>Turbo-d850-3.4-OFFICIAL-20160417.zip</Filename>
+            <Filename>Turbo-d850-4.0-OFFICIAL-20160509.zip</Filename>
             <RomUrl
                 id="rom"
                 title="ROM"
@@ -21,7 +21,7 @@
                 description="Visit the Turbo ROM d850 thread">http://forum.xda-developers.com/att-lg-g3/development/rom-turbo-rom-layers-t3346467</XDAUrl>
 	</d850>
         <d851>
-            <Filename>Turbo-d851-3.4-OFFICIAL-20160417.zip</Filename>
+            <Filename>Turbo-d851-4.0-OFFICIAL-20160509.zip</Filename>
             <RomUrl
                 id="rom"
                 title="ROM"
