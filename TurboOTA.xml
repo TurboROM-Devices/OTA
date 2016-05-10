@@ -305,5 +305,24 @@
                 title="XDA"
                 description="Visit the Turbo ROM Moto X Play thread">http://forum.xda-developers.com/moto-x-play/development/rom-turbo-rom-layers-t3368419</XDAUrl>
 	</lux>
+	<clark>
+            <Filename>Turbo-clark-4.0-OFFICIAL-20160511.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="ROM"
+                description="Download Turbo ROM builds">https://www.androidfilehost.com/user/?w=settings-dev-files&flid=54987</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View changelog">https://github.com/TurboROM/Documentation/blob/mm/CHANGELOG.mkdn</ChangelogUrl>
+            <GappsUrl
+                id="gapps"
+                title="GApps"
+                description="Download the latest GApps">http://opengapps.org/?arch=arm64&api=6.0&variant=nano</GappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit the Turbo ROM Moto X Pure thread">http://forum.xda-developers.com/moto-x-style/development/rom-turbo-rom-layers-t3367152</XDAUrl>
+	</clark>
     </Stable>
 </TurboOTA>
