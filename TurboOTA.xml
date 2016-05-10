@@ -318,7 +318,7 @@
             <GappsUrl
                 id="gapps"
                 title="GApps"
-                description="Download the latest GApps">http://opengapps.org/?arch=arm64&amp;api=6.0&variant=nano</GappsUrl>
+                description="Download the latest GApps">http://opengapps.org/?arch=arm64&amp;api=6.0&amp;variant=nano</GappsUrl>
             <XDAUrl
                 id="xda"
                 title="XDA"
