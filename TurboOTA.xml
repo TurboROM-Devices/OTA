@@ -325,11 +325,11 @@
                 description="Visit the Turbo ROM Moto X Pure thread">http://forum.xda-developers.com/moto-x-style/development/rom-turbo-rom-layers-t3367152</XDAUrl>
 	</clark>
         <titan>
-            <Filename>Turbo-titan-3.4-OFFICIAL-20160422.zip</Filename>
+            <Filename>Turbo-titan-4.0-OFFICIAL-20160511.zip</Filename>
             <RomUrl
                 id="rom"
                 title="ROM"
-                description="Download Turbo ROM builds">https://basketbuild.com/uploads/devs/Vidhanth/titan/roms/turbo/Turbo-titan-3.4-OFFICIAL-20160422.zip</RomUrl>
+                description="Download Turbo ROM builds">https://basketbuild.com/uploads/devs/Vidhanth/titan/roms/turbo/Turbo-titan-4.0-OFFICIAL-20160511.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
