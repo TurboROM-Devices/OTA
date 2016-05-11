@@ -324,5 +324,24 @@
                 title="XDA"
                 description="Visit the Turbo ROM Moto X Pure thread">http://forum.xda-developers.com/moto-x-style/development/rom-turbo-rom-layers-t3367152</XDAUrl>
 	</clark>
+        <titan>
+            <Filename>Turbo-titan-3.4-OFFICIAL-20160422.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="ROM"
+                description="Download Turbo ROM builds">https://basketbuild.com/uploads/devs/Vidhanth/titan/roms/turbo/Turbo-titan-3.4-OFFICIAL-20160422.zip</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View changelog">https://github.com/TurboROM/Documentation/blob/mm/CHANGELOG.mkdn</ChangelogUrl>
+            <GappsUrl
+                id="gapps"
+                title="GApps"
+                description="Download the latest BaNkS GApps">http://download.dirtyunicorns.com/files/gapps/banks_gapps</GappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit the Turbo ROM Moto G 2014 thread">http://forum.xda-developers.com/moto-g-2014/development/rom-turbo-rom-layers-t3364164</XDAUrl>
+	</titan>
     </Stable>
 </TurboOTA>
