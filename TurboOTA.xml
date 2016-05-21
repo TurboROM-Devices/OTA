@@ -210,6 +210,44 @@
                 title="XDA"
                 description="Visit the Turbo ROM Sprout8 thread">http://forum.xda-developers.com/crossdevice-dev/android-one-crossdevice-development-original-android-development/rom-turbo-rom-layers-t3348274</XDAUrl>	
 	</sprout8>
+	<tomato>
+	<Filename>Turbo-tomato-4.0-OFFICIAL-20160520.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="ROM"
+                description="Download Turbo ROM builds">https://www.androidfilehost.com/?fid=24533103863141845</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View changelog">https://github.com/TurboROM/Documentation/blob/mm/CHANGELOG.mkdn</ChangelogUrl>
+            <GappsUrl
+                id="gapps"
+                title="GApps"
+                description="Download the latest BaNkS GApps">http://download.dirtyunicorns.com/files/gapps/banks_gapps</GappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit the Turbo ROM Tomato thread">http://forum.xda-developers.com/yureka/development/rom-turbo-rom-layers-t3365109</XDAUrl>	
+	</tomato>
+	<mako>
+	<Filename>Turbo-mako-4.0-OFFICIAL-20160514.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="ROM"
+                description="Download Turbo ROM builds">https://www.androidfilehost.com/?fid=24533103863140026</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View changelog">https://github.com/TurboROM/Documentation/blob/mm/CHANGELOG.mkdn</ChangelogUrl>
+            <GappsUrl
+                id="gapps"
+                title="GApps"
+                description="Download the latest BaNkS GApps">http://download.dirtyunicorns.com/files/gapps/banks_gapps</GappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit the Turbo ROM Mako thread">http://forum.xda-developers.com/nexus-4/development/rom-turbo-rom-layers-t3346133</XDAUrl>	
+	</mako>	
         <hammerhead>
 	<Filename>Turbo-hammerhead-3.3-OFFICIAL-04-11-2016.zip</Filename>
             <RomUrl
