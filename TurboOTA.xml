@@ -381,5 +381,24 @@
                 title="XDA"
                 description="Visit the Turbo ROM Moto G 2014 thread">http://forum.xda-developers.com/moto-g-2014/development/rom-turbo-rom-layers-t3364164</XDAUrl>
 	</titan>
+        <jfltexx>
+            <Filename>Turbo-jfltexx-4.0-OFFICIAL-20160601.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="ROM"
+                description="Download Turbo ROM builds">https://www.androidfilehost.com/?fid=24572330218881537</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View changelog">https://github.com/TurboROM/Documentation/blob/mm/CHANGELOG.mkdn</ChangelogUrl>
+            <GappsUrl
+                id="gapps"
+                title="GApps"
+                description="Download the latest BaNkS GApps">http://download.dirtyunicorns.com/files/gapps/banks_gapps</GappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit the Turbo ROM Galaxy S4 thread">http://forum.xda-developers.com/galaxy-s4/i9505-develop/rom-turbo-rom-layers-t3390535</XDAUrl>
+	</jfltexx>
     </Stable>
 </TurboOTA>
