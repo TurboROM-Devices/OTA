@@ -1,6 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TurboOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
+        <otus>
+            <Filename>Turbo-otus-4.0-OFFICIAL-20160616.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="ROM"
+                description="Download Turbo ROM builds">https://basketbuild.com/filedl/devs?dev=lupedha&dl=lupedha/TurboROM/Moto%20E%202015%20(Otus)/Turbo-otus-4.0-OFFICIAL-20160616.zip</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View changelog">https://github.com/TurboROM/Documentation/blob/mm/CHANGELOG.mkdn</ChangelogUrl>
+            <GappsUrl
+                id="gapps"
+                title="GApps"
+                description="Download the latest BaNkS GApps">http://download.dirtyunicorns.com/files/gapps/banks_gapps</GappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit the Turbo ROM Otus thread">http://forum.xda-developers.com/moto-e-2015/orig-development/rom-turbo-rom-layer-dui-t3394207</XDAUrl>
+	</otus>
+        <surnia>
+            <Filename>Turbo-surnia-4.0-OFFICIAL-20160616.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="ROM"
+                description="Download Turbo ROM builds">https://basketbuild.com/filedl/devs?dev=lupedha&dl=lupedha/TurboROM/Moto%20E%202015%20(Surnia)/Turbo-surnia-4.0-OFFICIAL-20160616.zip</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View changelog">https://github.com/TurboROM/Documentation/blob/mm/CHANGELOG.mkdn</ChangelogUrl>
+            <GappsUrl
+                id="gapps"
+                title="GApps"
+                description="Download the latest BaNkS GApps">http://download.dirtyunicorns.com/files/gapps/banks_gapps</GappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit the Turbo ROM Surnia thread">http://forum.xda-developers.com/moto-e-2015/orig-development/rom-turbo-rom-layer-dui-t3394207</XDAUrl>
+	</surnia>
         <d850>
             <Filename>Turbo-d850-4.0-OFFICIAL-20160509.zip</Filename>
             <RomUrl
